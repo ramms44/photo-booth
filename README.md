@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Screenshots
 
-![alt text](https://i.ibb.co/55VK2c0/photobooth.png)
+![alt text](https://imgur.com/oP1WLmQ)
 
 ## Development server
 
